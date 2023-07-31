@@ -3,6 +3,9 @@
 # Project Description:
 This project is a User Management System that allows users to register, log in, edit their profiles, and search for other users based on specified criteria. The system provides secure authentication and authorization functionalities to ensure data privacy and restrict access to certain features.Also it have search bar functionality for filter data.
 
+# Working Demo:
+-Click Here :- (http://dev.pixlogixservice.com/Age_Search_Bar/login.php)
+
 # Features:
 1. Register Page:
 - Collects user details such as Name, Birth Date, Age, Gender, Photo, Hobbies, Email and Password during the registration process.
